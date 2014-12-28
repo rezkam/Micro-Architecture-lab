@@ -80,16 +80,3 @@ set_led_one
 set_led_one
 	ldi r16, 0x10
 	ret
-
-
-
-
-
-
-
-
-
-
-
-
-

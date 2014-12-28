@@ -42,7 +42,3 @@ shift:
 	lsl r16
 	out portc, r16
 	jmp delay
-
-
-
-
